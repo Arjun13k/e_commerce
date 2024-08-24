@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580510965392",
+    "project_id": "fakeapiecommerce",
+    "storage_bucket": "fakeapiecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580510965392:android:99b1e40de20848e41f4215",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFs_W22owrdx-PNVrGIC3EBOzdrNmbK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
